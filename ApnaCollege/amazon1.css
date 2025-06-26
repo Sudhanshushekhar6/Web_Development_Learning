@@ -1,0 +1,40 @@
+
+#one
+{
+    background-color:#0f1111;
+    height:60px;
+     color:#f08804;
+}
+button{
+    color:black;
+    background-color:#f08804;
+}
+#logo
+{
+    color:#f08804;
+    font-size:25px;
+}
+a
+{
+    margin-right: 170px;
+    color:white;
+}
+.ram
+{
+    height:200px;
+    width:200px;
+    border:2px solid black;
+    display:inline-block;
+    margin-top:20px;
+}
+footer{
+    background-color:#0f1111;
+    text-align:center;
+    color:white;
+}
+.content
+{
+    height:470px;
+}
+
+

@@ -1,0 +1,45 @@
+
+*{
+    margin:0px;
+}
+.head
+{
+    height:240px;
+    width:9000px;
+    background-color: rgba(0, 0, 0, 0.391);   
+    margin:100px;
+}
+.first
+{
+    height:65px;
+    width:65px;
+    border-radius:50%;
+    background-color: red;
+    margin-top:5px;
+    animation:naming 2s linear 3s infinite ease-in;
+}
+.sec
+{
+    height:65px;
+    width:65px;
+    border-radius:50%;
+    background-color: yellow;
+    
+    margin:5px;
+}
+.third
+{
+    height:65px;
+    width:65px;
+    border-radius:50%;
+    background-color: green;
+   margin:5px; 
+}
+@keyframes naming{
+    from{
+        font-size:0px;
+    }
+    to {
+        font-size:65px;
+       }
+}

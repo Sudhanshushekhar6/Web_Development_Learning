@@ -1,0 +1,94 @@
+/* div{
+    height:100px;
+    width:100px;
+    /* background-color: red; 
+    background-image: url("image.jpeg");
+    background-size: cover;
+    color:white;
+    position:fixed;
+    top:50px;
+    right:0px;
+} */
+/* .navbar
+{ 
+    
+    background-color: aqua;
+    display:flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration:none;
+    color:black;
+    /* display:inline; 
+}
+li
+{
+list-style-type:none;
+ display:inline; 
+/* margin-right:100px; 
+justify-content:red;
+}
+.Sudhanshu
+{
+    background-color:red;
+    color:black;
+border:2px solid blue;
+height:100px;
+width:100px;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+.Kumar
+{
+    background-color: pink;
+    color:brown;
+    height:50px;
+    width:50px;
+    border:2px solid green;
+    margin:25px 25px 25px 25px;
+    /* align-items: center; 
+    align-self:flex-start;
+} */
+div{
+    height:100px;
+    width:200px;
+    /* background-color:red; */
+}
+/* @media(width:400px)
+{
+div {
+    background-color: blue;
+}
+}
+@media(min-width:600px)
+{
+    div{
+        background-color: yellow;
+    }
+} */
+@media(max-width:300px)
+{
+    div{
+    background-color:green;
+}
+}
+@media(min-width:300px) and (max-width:400px)
+{
+    div{
+        background-color:pink;
+    }
+}
+@media(min-width:400px) and (max-width:600px)
+{
+    div{
+        background-color:red;
+    }
+}
+@media(min-width:600px)
+{
+    div{
+    background-color:blue;
+}
+}

@@ -1,0 +1,42 @@
+ /* div{
+    height: 50px;
+    background-color:red;
+    width:150px;
+    /* border-radius:50%; 
+    border: 2px solid rgb(238, 225, 225);
+    padding: 24px 3px 6px;
+    margin-bottom:67px; */
+    
+/* #two
+{
+    height: 25px;
+
+    background-color:red;
+    width:25px;
+    border-radius:50%;
+    border: 5px solid brown; */
+
+/*h1
+{
+    border-width:5px;
+    border-style:dotted;
+    border-color:blue;
+    border-radius:10px;
+}*/
+div{
+
+    background-color:green;
+   /* display:inline; */
+   margin:29px;
+   display:inline-block;
+   padding:25px;
+}
+button{
+    background-color:red;
+    display:block;
+}
+#two
+{
+   
+ visibility:hidden;    
+}
